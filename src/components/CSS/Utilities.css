@@ -1,0 +1,27 @@
+/*  */
+
+.padding-small{
+    padding-top: 1rem;
+}
+
+.color-primary{
+	color: #00909e;
+}
+
+.color-primary-dark{
+    color: #27496d;
+}
+
+.color-dark{
+    color: #142850;
+}
+
+
+
+font-light{
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold;
+    font-size: 100px;
+    color: #dae1e7;
+}
+

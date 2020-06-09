@@ -1,0 +1,16 @@
+Table{
+    padding: 2rem;
+    
+
+}
+
+.table-title{
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold;
+    font-size: 2rem;
+    color: #dae1e7;
+}
+
+.signout{
+    margin-right: 2rem;
+}

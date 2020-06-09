@@ -1,0 +1,15 @@
+.logo{
+    float: left;
+   
+    padding: 0 1vw 0 1vw;
+}
+
+.logo-text{
+    line-height: 4vw;
+    font-size: 2vw;
+    color: #00909e;
+    font-family: 'Raleway', sans-serif;
+    float: left;
+    /* font-family: 'Roboto', sans-serif; */
+    
+}
